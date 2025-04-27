@@ -1,6 +1,6 @@
 # PIPE-NETWORK-NODE
 
-PIPE NETWORK NODE RUN
+  PIPE NETWORK NODE RUN
 
 Minimum Req for This node is: 4GB Ram, 100GB Storage
 
